@@ -16,11 +16,7 @@ This guide gives you quick pointers to easily start learning force.com developme
 
 ## Tools and Toolkits
 
-Tools to make you more productive with force.com platform. 
-
-Many tools and toolkits are available for different task. To see full list, please click [here] (http://wiki.developerforce.com/page/Tools)
-
-Here are few key tools, that you might need to start with :
+Tools to make you more productive with force.com platform. Many tools and toolkits are available for different task. To see full list, please click [here] (http://wiki.developerforce.com/page/Tools). Here are few key tools, that you might need to start with :
 
 ### IDE's
  * __Force.com IDE or Plugin for Eclipse__ : One should at least setup Eclipse IDE with force.com plugin to be more productive with the platform. To setup and understand more about IDE, please [click here] (http://wiki.developerforce.com/index.php/Force.com_IDE) 
