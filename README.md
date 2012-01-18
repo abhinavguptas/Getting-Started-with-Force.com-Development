@@ -11,12 +11,14 @@ This guide gives you quick pointers to easily start learning force.com developme
                                                    
 ## Troubleshooting and queries
 You might be facing some issues, or having some questions. Best way to sort out is talk to your peers, still the problem is not solved. Here are few quick ways
+
  * __Force.com Discussion boards__ : Rich variety of boards are available to discuss almost anything about platform. Locate the correct board [here] (http://boards.developerforce.com/sforce/?category.id=developers).
  * __Tweet__ : Force.com community is pretty active on Twitter, tweet with hash #askforce
  * __StackOverFlow__ : If you are already an active user and like stackoverflow, many community members are pretty active out there. Make sure you post your questions with right tags like apex, visualforce and salesforce.
 
 ## Staying updated about Force.com platform
 Force.com platform comes with something cool 3 times a year, apart from that force.com dev community is pretty vibrant in terms of blogs and open source projects. Here are few ways to stay tuned to all these updates.
+
  * Watch [CodeShare] (http://developer.force.com/codeshare) and [Github] (https://github.com/search?type=Repositories&language=&q=salesforce&repo=&langOverride=&x=19&y=21&start_value=1) 
  * Follow important blogs : No need to say why this is important. My own Google reader subscription list is uploaded to this git hub repository. So please import [this] (https://github.com/abhinavguptas/Getting-Started-with-Force.com-Development-/blob/master/google-reader-subscriptions.xml) xml in Google reader to get an overdose of happenings :)
 
