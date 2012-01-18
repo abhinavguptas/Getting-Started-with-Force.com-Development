@@ -36,8 +36,6 @@
             <outline text="developer.force.com - New pages [en]"
                 title="developer.force.com - New pages [en]" type="rss"
                 xmlUrl="http://wiki.developerforce.com/index.php?title=Special:Newpages&amp;feed=rss" htmlUrl="http://wiki.developerforce.com/page/Special:NewPages"/>
-            <outline text="DevLegion" title="DevLegion" type="rss"
-                xmlUrl="http://www.devlegion.com/?feed=rss2" htmlUrl="http://devlegion.com"/>
             <outline text="DFC Featured Content"
                 title="DFC Featured Content" type="rss"
                 xmlUrl="http://wiki.developerforce.com/feeds/ADN_Featured_Content.xml" htmlUrl="http://wiki.apexdevnet.com/index.php/An_Introduction_to_Apex_Code_Test_Methods"/>
@@ -69,11 +67,7 @@
             <outline text="ForceTree.com" title="ForceTree.com"
                 type="rss"
                 xmlUrl="http://www.forcetree.com/feeds/posts/default" htmlUrl="http://www.forcetree.com/"/>
-            <outline text="James Ward" title="James Ward" type="rss"
-                xmlUrl="http://www.jamesward.com/feed/" htmlUrl="http://www.jamesward.com"/>
-            <outline text="Java Development topics"
-                title="Java Development topics" type="rss"
-                xmlUrl="http://community.salesforce.com/sforce/rss/board?board.id=JAVA_development" htmlUrl="http://boards.developerforce.com/t5/Java-Development/bd-p/JAVA_development"/>
+            
             <outline text="jefftrull" title="jefftrull" type="rss"
                 xmlUrl="http://jefftrull.livejournal.com/data/rss" htmlUrl="http://jefftrull.livejournal.com/"/>
             <outline text="joe-ferraro.com" title="joe-ferraro.com"
@@ -84,11 +78,7 @@
             <outline text="Just Your Average Salesforce Admins"
                 title="Just Your Average Salesforce Admins" type="rss"
                 xmlUrl="http://youraveragesalesforceadmin.blogspot.com/feeds/posts/default" htmlUrl="http://youraveragesalesforceadmin.blogspot.com/"/>
-            <outline
-                text="newest questions tagged salesforce - Stack Overflow"
-                title="newest questions tagged salesforce - Stack Overflow"
-                type="rss"
-                xmlUrl="http://stackoverflow.com/feeds/tag?tagnames=salesforce&amp;sort=newest" htmlUrl="http://stackoverflow.com/questions/tagged/?tagnames=salesforce&amp;sort=newest"/>
+            
             <outline text="Perspectives on Salesforce.com"
                 title="Perspectives on Salesforce.com" type="rss"
                 xmlUrl="http://sfdc.arrowpointe.com/feed/" htmlUrl="http://sfdc.arrowpointe.com"/>
@@ -161,7 +151,7 @@
             <outline text="   lead the race >>"
                 title="   lead the race >>" type="rss"
                 xmlUrl="http://leadtherace.blogspot.com/feeds/posts/default" htmlUrl="http://leadtherace.blogspot.com/"/>
-     		<outline text="&lt;Tech> Germ" title="&lt;Tech> Germ"
+     	     <outline text="&lt;Tech> Germ" title="&lt;Tech> Germ"
 				type="rss"
 			    xmlUrl="http://feeds.feedburner.com/TechnologyGerm" htmlUrl="http://www.tgerm.com/"/>
         </outline>
