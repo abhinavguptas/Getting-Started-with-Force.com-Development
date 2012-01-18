@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="1.0">
+    <head>
+        <title>Abhinav subscriptions in Google Reader</title>
+    </head>
+    <body>
+        <outline title="salesforce" text="salesforce">
+            <outline text="A salesforce blog" title="A salesforce blog"
+                type="rss"
+                xmlUrl="http://www.forcedotcom.com/feeds/posts/default" htmlUrl="http://www.forcedotcom.com"/>
+            <outline text="astreait.com" title="astreait.com" type="rss"
+                xmlUrl="http://astreait.com/wordpress/?feed=rss2" htmlUrl="http://astreait.com/wordpress"/>
+            <outline text="Bob Buzzard Blog" title="Bob Buzzard Blog"
+                type="rss"
+                xmlUrl="http://bobbuzzard.blogspot.com/feeds/posts/default" htmlUrl="http://bobbuzzard.blogspot.com/"/>
+            <outline text="Chris O Davies - Information Technology"
+                title="Chris O Davies - Information Technology"
+                type="rss"
+                xmlUrl="http://chrisodavies.blog.com/?feed=rss2" htmlUrl="http://chrisodavies.blog.com"/>
+            <outline
+                text="CIO's Guide to Cloud Computing and On-Demand | Appirio"
+                title="CIO's Guide to Cloud Computing and On-Demand | Appirio"
+                type="rss"
+                xmlUrl="http://blog.appirio.com/feeds/posts/default" htmlUrl="http://blog.appirio.com/"/>
+            <outline text="Code Share Latest Projects"
+                title="Code Share Latest Projects" type="rss"
+                xmlUrl="http://feeds.feedburner.com/CodeShareLatestProjects" htmlUrl="http://developer.force.com/codeshare/rss?type=mru"/>
+            <outline text="CRM FYI" title="CRM FYI" type="rss"
+                xmlUrl="http://crmfyi.com/feed/" htmlUrl="http://crmfyi.com"/>
+            <outline text="Decoding Salesforce"
+                title="Decoding Salesforce" type="rss"
+                xmlUrl="http://salesforce.phollaio.com/feed/" htmlUrl="http://salesforce.phollaio.com"/>
+            <outline text="Developer Relations"
+                title="Developer Relations" type="rss"
+                xmlUrl="http://feeds.feedburner.com/developerforce/developerelations" htmlUrl="http://blogs.developerforce.com/developer-relations"/>
+            <outline text="developer.force.com - New pages [en]"
+                title="developer.force.com - New pages [en]" type="rss"
+                xmlUrl="http://wiki.developerforce.com/index.php?title=Special:Newpages&amp;feed=rss" htmlUrl="http://wiki.developerforce.com/page/Special:NewPages"/>
+            <outline text="DevLegion" title="DevLegion" type="rss"
+                xmlUrl="http://www.devlegion.com/?feed=rss2" htmlUrl="http://devlegion.com"/>
+            <outline text="DFC Featured Content"
+                title="DFC Featured Content" type="rss"
+                xmlUrl="http://wiki.developerforce.com/feeds/ADN_Featured_Content.xml" htmlUrl="http://wiki.apexdevnet.com/index.php/An_Introduction_to_Apex_Code_Test_Methods"/>
+            <outline text="Embracing the Cloud"
+                title="Embracing the Cloud" type="rss"
+                xmlUrl="http://www.embracingthecloud.com/SyndicationService.asmx/GetRss" htmlUrl="http://www.embracingthecloud.com/"/>
+            <outline text="Engineering" title="Engineering" type="rss"
+                xmlUrl="http://feeds.feedburner.com/developerforce/engineering" htmlUrl="http://blogs.developerforce.com/engineering"/>
+            <outline text="Force 201 - Force.com Development"
+                title="Force 201 - Force.com Development" type="rss"
+                xmlUrl="http://force201.wordpress.com/feed/" htmlUrl="http://force201.wordpress.com"/>
+            <outline text="Force Guru" title="Force Guru" type="rss"
+                xmlUrl="http://forceguru.blogspot.com/feeds/posts/default" htmlUrl="http://forceguru.blogspot.com/"/>
+            <outline text="Force Monkey" title="Force Monkey" type="rss"
+                xmlUrl="http://forcemonkey.blogspot.com/feeds/posts/default" htmlUrl="http://forcemonkey.blogspot.com/"/>
+            <outline text="Force School" title="Force School" type="rss"
+                xmlUrl="http://forceschool.blogspot.com/feeds/posts/default" htmlUrl="http://forceschool.blogspot.com/"/>
+            <outline text="Force.com Blog" title="Force.com Blog"
+                type="rss"
+                xmlUrl="http://feeds2.feedburner.com/SforceBlog" htmlUrl="http://blogs.developerforce.com"/>
+            <outline
+                text="Force.com, Visualforce, Apex, Triggers, Sites : Trekbin Technologies"
+                title="Force.com, Visualforce, Apex, Triggers, Sites : Trekbin Technologies"
+                type="rss"
+                xmlUrl="http://salesforcetrekbin.blogspot.com/feeds/posts/default" htmlUrl="http://salesforcetrekbin.blogspot.com/"/>
+            <outline text="ForceCertified.com"
+                title="ForceCertified.com" type="rss"
+                xmlUrl="http://feeds2.feedburner.com/forcecertified" htmlUrl="http://forcecertified.com"/>
+            <outline text="ForceTree.com" title="ForceTree.com"
+                type="rss"
+                xmlUrl="http://www.forcetree.com/feeds/posts/default" htmlUrl="http://www.forcetree.com/"/>
+            <outline text="James Ward" title="James Ward" type="rss"
+                xmlUrl="http://www.jamesward.com/feed/" htmlUrl="http://www.jamesward.com"/>
+            <outline text="Java Development topics"
+                title="Java Development topics" type="rss"
+                xmlUrl="http://community.salesforce.com/sforce/rss/board?board.id=JAVA_development" htmlUrl="http://boards.developerforce.com/t5/Java-Development/bd-p/JAVA_development"/>
+            <outline text="jefftrull" title="jefftrull" type="rss"
+                xmlUrl="http://jefftrull.livejournal.com/data/rss" htmlUrl="http://jefftrull.livejournal.com/"/>
+            <outline text="joe-ferraro.com" title="joe-ferraro.com"
+                type="rss" xmlUrl="http://joe-ferraro.com/feed/" htmlUrl="http://joe-ferraro.com"/>
+            <outline text="Journey Into The Cloud"
+                title="Journey Into The Cloud" type="rss"
+                xmlUrl="http://feeds.feedburner.com/JourneyIntoTheCloud" htmlUrl="http://jaredemiller.com"/>
+            <outline text="Just Your Average Salesforce Admins"
+                title="Just Your Average Salesforce Admins" type="rss"
+                xmlUrl="http://youraveragesalesforceadmin.blogspot.com/feeds/posts/default" htmlUrl="http://youraveragesalesforceadmin.blogspot.com/"/>
+            <outline
+                text="newest questions tagged salesforce - Stack Overflow"
+                title="newest questions tagged salesforce - Stack Overflow"
+                type="rss"
+                xmlUrl="http://stackoverflow.com/feeds/tag?tagnames=salesforce&amp;sort=newest" htmlUrl="http://stackoverflow.com/questions/tagged/?tagnames=salesforce&amp;sort=newest"/>
+            <outline text="Perspectives on Salesforce.com"
+                title="Perspectives on Salesforce.com" type="rss"
+                xmlUrl="http://sfdc.arrowpointe.com/feed/" htmlUrl="http://sfdc.arrowpointe.com"/>
+            <outline text="Professional Services Cloud | Appirio"
+                title="Professional Services Cloud | Appirio" type="rss"
+                xmlUrl="http://pscloud.appirio.com/feeds/posts/default" htmlUrl="http://pscloud.appirio.com/"/>
+            <outline
+                text="Rather Geeky - Productivity Tips for Normal People"
+                title="Rather Geeky - Productivity Tips for Normal People"
+                type="rss"
+                xmlUrl="http://www.rathergeeky.com/feeds/posts/default" htmlUrl="http://www.rathergeeky.com/"/>
+            <outline text="Rich's Code Stuff" title="Rich's Code Stuff"
+                type="rss"
+                xmlUrl="http://youngerunger.blogspot.com/feeds/posts/default" htmlUrl="http://youngerunger.blogspot.com/"/>
+            <outline text="sales &amp; marketing ideas blog"
+                title="sales &amp; marketing ideas blog" type="rss"
+                xmlUrl="http://mikegerholdt.com/feed/" htmlUrl="http://buttonclickadmin.com"/>
+            <outline text="Salesforce Labs" title="Salesforce Labs"
+                type="rss"
+                xmlUrl="http://feeds.feedburner.com/forcelabs/MyHy" htmlUrl="http://www.forcelabs.net/"/>
+            <outline text="Salesforce/Force.com Tips and Tricks"
+                title="Salesforce/Force.com Tips and Tricks" type="rss"
+                xmlUrl="http://devendranatani.blogspot.com/feeds/posts/default" htmlUrl="http://devendranatani.blogspot.com/"/>
+            <outline text="Secure Salesforce" title="Secure Salesforce"
+                type="rss"
+                xmlUrl="http://simplyforce.blogspot.com/feeds/posts/default" htmlUrl="http://simplyforce.blogspot.com/"/>
+            <outline
+                text="Setupforce.com - The Salesforce.com Setup Blog"
+                title="Setupforce.com - The Salesforce.com Setup Blog"
+                type="rss"
+                xmlUrl="http://setupforce.wordpress.com/feed/" htmlUrl="http://setupforce.wordpress.com"/>
+            <outline text="Shared Pool" title="Shared Pool" type="rss"
+                xmlUrl="http://kgoutam.blogspot.com/feeds/posts/default" htmlUrl="http://kgoutam.blogspot.com/"/>
+            <outline text="Sundog" title="Sundog" type="rss"
+                xmlUrl="http://feeds2.feedburner.com/Sunblog" htmlUrl="http://www.sundoginteractive.com/sunblog/"/>
+            <outline text="Superpatterns" title="Superpatterns"
+                type="rss" xmlUrl="http://feeds.feedburner.com/superpat" htmlUrl="http://blog.superpat.com"/>
+            <outline text="Swami - On the Cloud"
+                title="Swami - On the Cloud" type="rss"
+                xmlUrl="http://www.codeoncloud.com/feeds/posts/default" htmlUrl="http://www.codeoncloud.com/"/>
+            <outline text="Systems Integrator"
+                title="Systems Integrator" type="rss"
+                xmlUrl="http://feeds.feedburner.com/developerforce/systemsintegrator" htmlUrl="http://blogs.developerforce.com/systems-integrator"/>
+            <outline text="Teach Me Salesforce"
+                title="Teach Me Salesforce" type="rss"
+                xmlUrl="http://teachmesalesforce.wordpress.com/feed/" htmlUrl="http://teachmesalesforce.wordpress.com"/>
+            <outline text="Tech Pubs" title="Tech Pubs" type="rss"
+                xmlUrl="http://feeds.feedburner.com/developerforce/techpubs" htmlUrl="http://blogs.developerforce.com/tech-pubs"/>
+            <outline text="Technology Share - TechShare"
+                title="Technology Share - TechShare" type="rss"
+                xmlUrl="http://techsahre.blogspot.com/feeds/posts/default" htmlUrl="http://techsahre.blogspot.com/"/>
+            <outline text="TehNrd" title="TehNrd" type="rss"
+                xmlUrl="http://www.tehnrd.com/feed/" htmlUrl="http://www.tehnrd.com"/>
+            <outline text="The Cloud Blog" title="The Cloud Blog"
+                type="rss"
+                xmlUrl="http://feeds.feedburner.com/thecloudblog" htmlUrl="http://cloudblog.salesforce.com/"/>
+            <outline text="The Enforcer.net" title="The Enforcer.net"
+                type="rss" xmlUrl="http://theenforcer.net/feed/" htmlUrl="http://theEnforcer.net"/>
+            <outline text="The Silver Lining" title="The Silver Lining"
+                type="rss"
+                xmlUrl="http://developinthecloud.wordpress.com/feed/" htmlUrl="http://th3silverlining.com"/>
+            <outline text="Work+Cloud" title="Work+Cloud" type="rss"
+                xmlUrl="http://www.jasonouellette.com/feeds/posts/default" htmlUrl="http://www.jasonouellette.com/"/>
+            <outline text="Workplace Efficiency by MK Partners"
+                title="Workplace Efficiency by MK Partners" type="rss"
+                xmlUrl="http://www.mkpartners.com/feed" htmlUrl="http://www.mkpartners.com"/>
+            <outline text="X-Squared On Demand LLC Blog"
+                title="X-Squared On Demand LLC Blog" type="rss"
+                xmlUrl="http://www.x2od.com/feed" htmlUrl="http://www.x2od.com"/>
+            <outline text="   lead the race >>"
+                title="   lead the race >>" type="rss"
+                xmlUrl="http://leadtherace.blogspot.com/feeds/posts/default" htmlUrl="http://leadtherace.blogspot.com/"/>
+     		<outline text="&lt;Tech> Germ" title="&lt;Tech> Germ"
+				type="rss"
+			    xmlUrl="http://feeds.feedburner.com/TechnologyGerm" htmlUrl="http://www.tgerm.com/"/>
+        </outline>
+       
+    </body>
+</opml>
