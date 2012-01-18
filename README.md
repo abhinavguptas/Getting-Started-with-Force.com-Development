@@ -42,14 +42,14 @@ These browsers allow you to quickly scan an org’s schema, plus a few other adm
  * [Language Security Considerations] (http://wiki.developerforce.com/index.php/Apex_and_Visualforce_Security_Tips)
  * [Visual force View State Handling] (http://wiki.developerforce.com/index.php/An_Introduction_to_Visualforce_View_State)
  * [Cookbook for solutions] (http://developer.force.com/cookbook)
- * Best practices 
+ * __Best practices__ 
   *  [Apex Trigger/Code] (http://wiki.developerforce.com/index.php/Apex_Code_Best_Practices)
   *  [Sites] (http://wiki.developerforce.com/index.php/Force.com_Sites_Best_Practices)
   *  [Salesforce 2 Salesforce] (http://wiki.developerforce.com/index.php/Best_Practices_for_Salesforce_to_Salesforce) 
   *  [Server Endpoints] (http://wiki.developerforce.com/index.php/Best_Practices_When_Referencing_Server_Endpoints)
- *  Force.com Security 
+ *  __Force.com Security__ : Please don't ignore this, if you will it will come back to you as nightmare :)
   * [Home page for all the relevant links for security] (http://wiki.developerforce.com/index.php/Security)
-  * [Testing CRUD FLS] (http://wiki.developerforce.com/index.php/Testing_CRUD_and_FLS_Enforcement
+  * [Testing CRUD FLS] (http://wiki.developerforce.com/index.php/Testing_CRUD_and_FLS_Enforcement)
   * [Enforcing CRUD & FLS] (http://wiki.developerforce.com/index.php/Enforcing_CRUD_and_FLS)
   * [Writing secure code on Force.com platform] (http://developer.force.com/dreamforce/10/session/Writing-Secure-Code-on-the-Force-com-Platform)
   * [Security Quiz] (http://security.force.com/platformquiz)
