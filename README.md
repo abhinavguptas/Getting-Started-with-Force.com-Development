@@ -1,4 +1,4 @@
-# Getting familiar with the platform
+## Getting familiar with the platform
  * __Sign up for Developer Account__ : Join Developer Force to get your free Developer Edition (DE) environment and access to key resources. [Signup link] (http://developer.force.com/join) 
  * __Force.com Fundamentals__ : Start reading this book to familiarize yourself with the platform in general. [Read HTML version of this book] (http://www.salesforce.com/us/developer/docs/fundamentals/index.htm)
  * __Force.com Workbook__ : Pick up a work book on this page for more real life tutorials and apps. [Link to workbook] (http://wiki.developerforce.com/index.php/Forcedotcomworkbook)
