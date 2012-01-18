@@ -40,7 +40,11 @@ Tools to make you more productive with force.com platform. Many tools and toolki
 These browsers allow you to quickly scan an org’s schema, plus a few other admin tasks. Its faster many times then eclipse or other IDE, as we don’t need to download, install and checkout anything.
 
 * __Force.com Explorer__ : Adobe AIR based cross platform application. Download from [here] (http://wiki.developerforce.com/index.php/ForceExplorer)
-* __Workbench__ : This powerful, web-based suite of tools designed for adminstrators and developers to interact with Salesforce.com organizations via the Force.com APIs. Workbench includes robust support for the Force.com Partner, Bulk, Rest, Streaming, Metadata, and Apex APIs that allows users to describe, query, manipulate, and migrate both data and metadata in Salesforce.com organizations directly in their web browser with a simple and intuitive user interface. More details [here] (http://wiki.developerforce.com/page/Workbench)
+
+### Workbench
+
+This powerful, web-based suite of tools designed for adminstrators and developers to interact with Salesforce.com organizations via the Force.com APIs. Workbench includes robust support for the Force.com Partner, Bulk, Rest, Streaming, Metadata, and Apex APIs that allows users to describe, query, manipulate, and migrate both data and metadata in Salesforce.com organizations directly in their web browser with a simple and intuitive user interface. More details [here] (http://wiki.developerforce.com/page/Workbench)
+
 
 ## Community developed tools 
  * __Force.com utility belt__ : This is handy chrome plugin that helps you quickly search for docs, and do other stuff like 15 to 18 digit ID conversion. More details [here] (http://techblog.appirio.com/2010/08/forcecom-utility-belt-google-chrome.html)
