@@ -16,7 +16,11 @@ This guide gives you quick pointers to easily start learning force.com developme
 
 ## Tools and Toolkits
 
-Tools to make you more productive with force.com platform. Here are few key tools, that you might need to start with :
+Tools to make you more productive with force.com platform. 
+
+Many tools and toolkits are available for different task. To see full list, please click [here] (http://wiki.developerforce.com/page/Tools)
+
+Here are few key tools, that you might need to start with :
 
 ### IDE's
  * __Force.com IDE or Plugin for Eclipse__ : One should at least setup Eclipse IDE with force.com plugin to be more productive with the platform. To setup and understand more about IDE, please [click here] (http://wiki.developerforce.com/index.php/Force.com_IDE) 
@@ -29,9 +33,27 @@ These browsers allow you to quickly scan an org’s schema, plus a few other adm
 * __Force.com Explorer__ : Adobe AIR based cross platform application. Download from [here] (http://wiki.developerforce.com/index.php/ForceExplorer)
 * __Workbench__ : This powerful, web-based suite of tools designed for adminstrators and developers to interact with Salesforce.com organizations via the Force.com APIs. Workbench includes robust support for the Force.com Partner, Bulk, Rest, Streaming, Metadata, and Apex APIs that allows users to describe, query, manipulate, and migrate both data and metadata in Salesforce.com organizations directly in their web browser with a simple and intuitive user interface. More details [here] (http://wiki.developerforce.com/page/Workbench)
 
-Many more tools and toolkits are available as you require going forward. To see full list, please click [here] (http://wiki.developerforce.com/page/Tools)
+## Community developed tools 
+ * __Force.com utility belt__ : This is handy chrome plugin that helps you quickly search for docs, and do other stuff like 15 to 18 digit ID conversion.
+ 
+## Recommended Reading (Advanced)
 
-
+ * [Understand Force.com platform security] (http://wiki.developerforce.com/index.php/An_Overview_of_Force.com_Security)
+ * [Language Security Considerations] (http://wiki.developerforce.com/index.php/Apex_and_Visualforce_Security_Tips)
+ * [Visual force View State Handling] (http://wiki.developerforce.com/index.php/An_Introduction_to_Visualforce_View_State)
+ * [Cookbook for solutions] (http://developer.force.com/cookbook)
+ * Best practices 
+  *  [Apex Trigger/Code] (http://wiki.developerforce.com/index.php/Apex_Code_Best_Practices)
+  *  [Sites] (http://wiki.developerforce.com/index.php/Force.com_Sites_Best_Practices)
+  *  [Salesforce 2 Salesforce] (http://wiki.developerforce.com/index.php/Best_Practices_for_Salesforce_to_Salesforce) 
+  *  [Server Endpoints] (http://wiki.developerforce.com/index.php/Best_Practices_When_Referencing_Server_Endpoints)
+ *  Force.com Security 
+  * [Home page for all the relevant links for security] (http://wiki.developerforce.com/index.php/Security)
+  * [Testing CRUD FLS] (http://wiki.developerforce.com/index.php/Testing_CRUD_and_FLS_Enforcement
+  * [Enforcing CRUD & FLS] (http://wiki.developerforce.com/index.php/Enforcing_CRUD_and_FLS)
+  * [Writing secure code on Force.com platform] (http://developer.force.com/dreamforce/10/session/Writing-Secure-Code-on-the-Force-com-Platform)
+  * [Security Quiz] (http://security.force.com/platformquiz)
+    
 ## Other getting started guides
  * [Getting started: the force.com community - From Salesforce] (http://developer.force.com/gettingstartedcommunity)
  * [Getting started: Force.com for Developers - From Salesforce] (http://developer.force.com/gettingstarteddevelopers)
