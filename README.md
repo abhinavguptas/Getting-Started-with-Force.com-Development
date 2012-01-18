@@ -22,7 +22,7 @@ Force.com platform comes with something cool 3 times a year, apart from that for
  * __Watch opensource action__ : Keep an eye on [CodeShare] (http://developer.force.com/codeshare) and [Github] (https://github.com/search?type=Repositories&language=&q=salesforce&repo=&langOverride=&x=19&y=21&start_value=1) 
  * __Follow important blogs__ : No need to say why this is important. My own Google reader subscription list is uploaded to this git hub repository. So please import [this] (https://github.com/abhinavguptas/Getting-Started-with-Force.com-Development-/blob/master/google-reader-subscriptions.xml) xml in Google reader to get an big dose of happenings :)
 
-## Taking deep dive (Level up time, leave the "beginners" tag)
+## Taking deep dive (Level up time, leave the "n00b" tag)
  * __Force.com Technical Library__ : This page is a great starting point to explore alomost any technical topic about force.com. It gives hyperlinks to documentation of various force.com features. [View Technical Library] (http://wiki.developerforce.com/index.php/Wiki)
  * __Documentation__ : Pick various topics available here as per requirements. This page is really important to bookmark and will serve assistance on most of the force.com topics. [View Documentation] (http://wiki.developerforce.com/index.php/Documentation) 
  * __Cheat sheets__ : We all love cheatsheets, many cheatsheets about different areas are available [here] (http://wiki.developerforce.com/index.php/Documentation#Developer_Cheat_Sheets)                                              
