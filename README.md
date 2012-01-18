@@ -14,14 +14,23 @@ This guide gives you quick pointers to easily start learning force.com developme
  * __Documentation__ : Pick various topics available here as per requirements. This page is really important to bookmark and will serve assistance on most of the force.com topics. [View Documentation] (http://wiki.developerforce.com/index.php/Documentation) 
  * __Cheat sheets__ : We all love cheatsheets, many cheatsheets about different areas are available [here] (http://wiki.developerforce.com/index.php/Documentation#Developer_Cheat_Sheets)                                              
 
-## IDE 
+## Tools and Toolkits
+
+Tools to make you more productive with force.com platform. Here are few key tools, that you might need to start with :
+
+### IDE's
  * __Force.com IDE or Plugin for Eclipse__ : One should at least setup Eclipse IDE with force.com plugin to be more productive with the platform. To setup and understand more about IDE, please [click here] (http://wiki.developerforce.com/index.php/Force.com_IDE) 
  * __Text Mate based IDE (for Mac OS)__ : Maven's team has done a great job in developing IDE on top of popular Text Mate editor for Mac. More details [here] (https://github.com/joeferraro/MavensMate)  
+ * __BrainEngine__ : Provides IDE that provides standard developer tools, source control and team collaboration feature. More details available [here] (http://www.brainengine.net/)
 
-## Schema browsers
-* __Install Force.com Explorer for quickly scanning an org’s schema. Its faster many times then eclipse, as we don’t need to checkout anything : http://wiki.developerforce.com/index.php/ForceExplorer 
+### Schema browsers
+These browsers allow you to quickly scan an org’s schema, plus a few other admin tasks. Its faster many times then eclipse or other IDE, as we don’t need to download, install and checkout anything.
 
-List of all tools are available [here] (http://wiki.developerforce.com/index.php/Tools)
+* __Force.com Explorer__ : Adobe AIR based cross platform application. Download from [here] (http://wiki.developerforce.com/index.php/ForceExplorer)
+* __Workbench__ : This powerful, web-based suite of tools designed for adminstrators and developers to interact with Salesforce.com organizations via the Force.com APIs. Workbench includes robust support for the Force.com Partner, Bulk, Rest, Streaming, Metadata, and Apex APIs that allows users to describe, query, manipulate, and migrate both data and metadata in Salesforce.com organizations directly in their web browser with a simple and intuitive user interface. More details [here] (http://wiki.developerforce.com/page/Workbench)
+
+Many more tools and toolkits are available as you require going forward. To see full list, please click [here] (http://wiki.developerforce.com/page/Tools)
+
 
 ## Other getting started guides
  * [Getting started: the force.com community - From Salesforce] (http://developer.force.com/gettingstartedcommunity)
