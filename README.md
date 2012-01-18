@@ -1,0 +1,6 @@
+# Getting familiar with the platform
+ * __Sign up for Developer Account__ : Join Developer Force to get your free Developer Edition (DE) environment and access to key resources. [Signup link] (http://developer.force.com/join) 
+ * __Force.com Fundamentals__ : Start reading this book to familiarize yourself with the platform in general. [Read HTML version of this book] (http://www.salesforce.com/us/developer/docs/fundamentals/index.htm)
+ * __Force.com Workbook__ : Pick up a work book on this page for more real life tutorials and apps. [Link to workbook] (http://wiki.developerforce.com/index.php/Forcedotcomworkbook)
+ * __Quick Video from Dreamforce sessions__ : A quick 1 hour video to get you familiar with some aspects. [Link to video] (http://developer.force.com/df_session?id=a0J300000009weGEAQ)
+ * __iTunes Podcasts__ : Watch these 401/501 and other postcast on iTunes, this will help you prepare starting from 401 to advanced. Please note these podcasts are bit old, so some features are changed as per recent releases, but they are still good to give some ground. [Link to podcasts] (http://itunes.apple.com/in/podcast/salesforce.com-training-certification/id325668840)
