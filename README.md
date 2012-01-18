@@ -13,7 +13,7 @@ This guide gives you quick pointers to easily start learning force.com developme
 You might be facing some issues, or having some questions. Best way to sort out is talk to your peers, still the problem is not solved. Here are few quick ways
 
  * __Force.com Discussion boards__ : Rich variety of boards are available to discuss almost anything about platform. Locate the correct board [here] (http://boards.developerforce.com/sforce/?category.id=developers).
- * __Tweet__ : Force.com community is pretty active on Twitter, tweet with hash #askforce
+ * __Tweet__ : Force.com community is pretty active on Twitter, tweet your question with hash #askforce
  * __StackOverFlow__ : If you are already an active user and like stackoverflow, many community members are pretty active out there. Make sure you post your questions with right tags like apex, visualforce and salesforce.
 
 ## Staying updated about Force.com platform
