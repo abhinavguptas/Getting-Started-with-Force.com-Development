@@ -19,10 +19,10 @@ You might be facing some issues, or having some questions. Best way to sort out 
 ## Staying updated about Force.com platform
 Force.com platform comes with something cool 3 times a year, apart from that force.com dev community is pretty vibrant in terms of blogs and open source projects. Here are few ways to stay tuned to all these updates.
 
- * Watch [CodeShare] (http://developer.force.com/codeshare) and [Github] (https://github.com/search?type=Repositories&language=&q=salesforce&repo=&langOverride=&x=19&y=21&start_value=1) 
- * Follow important blogs : No need to say why this is important. My own Google reader subscription list is uploaded to this git hub repository. So please import [this] (https://github.com/abhinavguptas/Getting-Started-with-Force.com-Development-/blob/master/google-reader-subscriptions.xml) xml in Google reader to get an overdose of happenings :)
+ * __Watch opensource action__ : Keep an eye on [CodeShare] (http://developer.force.com/codeshare) and [Github] (https://github.com/search?type=Repositories&language=&q=salesforce&repo=&langOverride=&x=19&y=21&start_value=1) 
+ * __Follow important blogs__ : No need to say why this is important. My own Google reader subscription list is uploaded to this git hub repository. So please import [this] (https://github.com/abhinavguptas/Getting-Started-with-Force.com-Development-/blob/master/google-reader-subscriptions.xml) xml in Google reader to get an big dose of happenings :)
 
-## Taking deep dive into various topics 
+## Taking deep dive (Level up time, leave the "beginners" tag)
  * __Force.com Technical Library__ : This page is a great starting point to explore alomost any technical topic about force.com. It gives hyperlinks to documentation of various force.com features. [View Technical Library] (http://wiki.developerforce.com/index.php/Wiki)
  * __Documentation__ : Pick various topics available here as per requirements. This page is really important to bookmark and will serve assistance on most of the force.com topics. [View Documentation] (http://wiki.developerforce.com/index.php/Documentation) 
  * __Cheat sheets__ : We all love cheatsheets, many cheatsheets about different areas are available [here] (http://wiki.developerforce.com/index.php/Documentation#Developer_Cheat_Sheets)                                              
@@ -45,7 +45,7 @@ These browsers allow you to quickly scan an org’s schema, plus a few other adm
 ## Community developed tools 
  * __Force.com utility belt__ : This is handy chrome plugin that helps you quickly search for docs, and do other stuff like 15 to 18 digit ID conversion. More details [here] (http://techblog.appirio.com/2010/08/forcecom-utility-belt-google-chrome.html)
  
-## Recommended Reading (Advanced)
+## Recommended Reading (Advanced, roadmap to become a PRO !)
 
  * [Understand Force.com platform security] (http://wiki.developerforce.com/index.php/An_Overview_of_Force.com_Security)
  * [Language Security Considerations] (http://wiki.developerforce.com/index.php/Apex_and_Visualforce_Security_Tips)
