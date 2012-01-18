@@ -9,6 +9,17 @@ This guide gives you quick pointers to easily start learning force.com developme
  * __Quick Video from Dreamforce sessions__ : A quick 1 hour video to get you familiar with some aspects. [Link to video] (http://developer.force.com/df_session?id=a0J300000009weGEAQ)
  * __iTunes Podcasts__ : Watch these 401/501 and other postcast on iTunes, this will help you prepare starting from 401 to advanced. Please note these podcasts are bit old, so some features are changed as per recent releases, but they are still good to give some ground. [Link to podcasts] (http://itunes.apple.com/in/podcast/salesforce.com-training-certification/id325668840)
                                                    
+## Troubleshooting and queries
+You might be facing some issues, or having some questions. Best way to sort out is talk to your peers, still the problem is not solved. Here are few quick ways
+ * __Force.com Discussion boards__ : Rich variety of boards are available to discuss almost anything about platform. Locate the correct board [here] (http://boards.developerforce.com/sforce/?category.id=developers).
+ * __Tweet__ : Force.com community is pretty active on Twitter, tweet with hash #askforce
+ * __StackOverFlow__ : If you are already an active user and like stackoverflow, many community members are pretty active out there. Make sure you post your questions with right tags like apex, visualforce and salesforce.
+
+## Staying updated about Force.com platform
+Force.com platform comes with something cool 3 times a year, apart from that force.com dev community is pretty vibrant in terms of blogs and open source projects. Here are few ways to stay tuned to all these updates.
+ * Watch [CodeShare] (http://developer.force.com/codeshare) and [Github] (https://github.com/search?type=Repositories&language=&q=salesforce&repo=&langOverride=&x=19&y=21&start_value=1) 
+ * Follow important blogs : No need to say why this is important. My own Google reader subscription list is uploaded to this git hub repository. So please import [this] (https://github.com/abhinavguptas/Getting-Started-with-Force.com-Development-/blob/master/google-reader-subscriptions.xml) xml in Google reader to get an overdose of happenings :)
+
 ## Taking deep dive into various topics 
  * __Force.com Technical Library__ : This page is a great starting point to explore alomost any technical topic about force.com. It gives hyperlinks to documentation of various force.com features. [View Technical Library] (http://wiki.developerforce.com/index.php/Wiki)
  * __Documentation__ : Pick various topics available here as per requirements. This page is really important to bookmark and will serve assistance on most of the force.com topics. [View Documentation] (http://wiki.developerforce.com/index.php/Documentation) 
