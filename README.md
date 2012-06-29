@@ -37,7 +37,8 @@ Tools to make you more productive with force.com platform. Many tools and toolki
 
 ### IDE's
  * __Force.com IDE or Plugin for Eclipse__ : One should at least setup Eclipse IDE with force.com plugin to be more productive with the platform. To setup and understand more about IDE, please [click here] (http://wiki.developerforce.com/index.php/Force.com_IDE) 
- * __Text Mate based IDE (for Mac OS)__ : Maven's team has done a great job in developing IDE on top of popular Text Mate editor for Mac. More details [here] (https://github.com/joeferraro/MavensMate)  
+ * __Sublime Text-based IDE : More details [here] (https://github.com/joeferraro/MavensMate-SublimeText) 
+ * __TextMate-based IDE (for Mac OS)__ : Mavens team has done a great job in developing an IDE on top of popular TextMate editor for Mac. More details [here] (https://github.com/joeferraro/MavensMate)  
  * __BrainEngine__ : Provides IDE that provides standard developer tools, source control and team collaboration feature. More details available [here] (http://www.brainengine.net/)
 
 ### Schema browsers
