@@ -27,7 +27,6 @@
             <outline type="rss" text="Daniel Ballinger's FishOfPrey.com" title="Daniel Ballinger's FishOfPrey.com" xmlUrl="http://www.fishofprey.com/feeds/posts/default" htmlUrl="http://www.fishofprey.com/"/>
             <outline type="rss" text="Shared Pool" title="Shared Pool" xmlUrl="http://kgoutam.blogspot.com/feeds/posts/default" htmlUrl="http://kgoutam.blogspot.com/"/>
             <outline type="rss" text="Jeff Douglas - Technology, Coding and Bears... OH MY!" title="Jeff Douglas - Technology, Coding and Bears... OH MY!" xmlUrl="http://blog.jeffdouglas.com/feed/" htmlUrl="http://blog.jeffdouglas.com"/>
-            <outline type="rss" text="WordPress.com News" title="WordPress.com News" xmlUrl="http://en.blog.wordpress.com/feed/" htmlUrl="http://en.blog.wordpress.com"/>
             <outline type="rss" text="Andy in the Cloud" title="Andy in the Cloud" xmlUrl="http://andyinthecloud.com/feed/" htmlUrl="http://andyinthecloud.com"/>
             <outline type="rss" text="Force Unlimited" title="Force Unlimited" xmlUrl="http://blog.shivanathd.com/feeds/posts/default" htmlUrl="http://blog.shivanathd.com/"/>
             <outline type="rss" text="MacsCloud" title="MacsCloud" xmlUrl="http://macscloud.com/feed/" htmlUrl="http://macscloud.com"/>
@@ -52,9 +51,10 @@
             <outline type="rss" text="Rich's Code Stuff" title="Rich's Code Stuff" xmlUrl="http://youngerunger.blogspot.com/feeds/posts/default" htmlUrl="http://youngerunger.blogspot.com/"/>
             <outline type="rss" text="Salesforce Blog for Interactive Ties by Greg Hacic" title="Salesforce Blog for Interactive Ties by Greg Hacic" xmlUrl="http://www.interactiveties.com/incl/blog.rss" htmlUrl="http://www.interactiveties.com/blog"/>
             <outline type="rss" text="Posts of Journal" title="Posts of Journal" xmlUrl="https://sites.google.com/site/collaboratory20/journal/posts.xml"/>
+            <outline type="rss" text="&lt;Tech&gt; Germ" title="&lt;Tech&gt; Germ" xmlUrl="http://www.tgerm.com/feeds/posts/default" htmlUrl="http://www.tgerm.com/"/>
             <outline type="rss" text="Salesforce Labs" title="Salesforce Labs" xmlUrl="http://feeds.feedburner.com/forcelabs/MyHy"/>
-            <outline type="rss" text="Work+Cloud" title="Work+Cloud" xmlUrl="http://www.jasonouellette.com/feeds/posts/default" htmlUrl="http://www.jasonouellette.com/"/>
             <outline type="rss" text="The Enforcer.net" title="The Enforcer.net" xmlUrl="http://theenforcer.net/feed/" htmlUrl="http://theEnforcer.net"/>
+            <outline type="rss" text="Work+Cloud" title="Work+Cloud" xmlUrl="http://www.jasonouellette.com/feeds/posts/default" htmlUrl="http://www.jasonouellette.com/"/>
             <outline type="rss" text="Database.com" title="Database.com" xmlUrl="http://blog.database.com/feed/" htmlUrl="http://blog.database.com"/>
             <outline type="rss" text="Chris O Davies - Information Technology" title="Chris O Davies - Information Technology" xmlUrl="http://chrisodavies.blog.com/?feed=rss2"/>
             <outline type="rss" text="Integrations/Implementation of Salesforce apps  using PHP" title="Integrations/Implementation of Salesforce apps  using PHP" xmlUrl="http://php-salesforce.blogspot.com/feeds/posts/default" htmlUrl="http://php-salesforce.blogspot.com/"/>
@@ -65,7 +65,6 @@
             <outline type="rss" text="Vertical Coder" title="Vertical Coder" xmlUrl="http://verticalcode.wordpress.com/feed/" htmlUrl="http://www.verticalcoder.com"/>
             <outline type="rss" text="Tech Pubs" title="Tech Pubs" xmlUrl="http://feeds.feedburner.com/developerforce/techpubs" htmlUrl="http://blogs.developerforce.com/tech-pubs"/>
             <outline type="rss" text="The Silver Lining" title="The Silver Lining" xmlUrl="http://developinthecloud.wordpress.com/feed/" htmlUrl="http://th3silverlining.com"/>
-            <outline type="rss" text="Jesse Altman" title="Jesse Altman" xmlUrl="http://jessealtman.com/feed/" htmlUrl="http://jessealtman.com"/>
             <outline type="rss" text="Salesforce and Marketing Operations Blog | OpFocus" title="Salesforce and Marketing Operations Blog | OpFocus" xmlUrl="http://www.opfocus.com/feed/" htmlUrl="http://www.opfocus.com"/>
             <outline type="rss" text="ForceCertified.com" title="ForceCertified.com" xmlUrl="http://feeds2.feedburner.com/forcecertified" htmlUrl="http://forcecertified.com"/>
             <outline type="rss" text="bitplex.me" title="bitplex.me" xmlUrl="http://bitplex.me/feed" htmlUrl="http://bitplex.me"/>
@@ -93,11 +92,10 @@
             <outline type="rss" text="Frank Neezen" title="Frank Neezen" xmlUrl="http://www.frankneezen.com/feed/" htmlUrl="http://www.frankneezen.com"/>
             <outline type="rss" text="Force Monkey" title="Force Monkey" xmlUrl="http://forcemonkey.blogspot.com/feeds/posts/default" htmlUrl="http://forcemonkey.blogspot.com/"/>
             <outline type="rss" text="TehNrd" title="TehNrd" xmlUrl="http://www.tehnrd.com/feed/" htmlUrl="http://www.tehnrd.com"/>
-            <outline type="rss" text="Cloud Powered Business Blog" title="Cloud Powered Business Blog" xmlUrl="http://blog.appirio.com/feeds/posts/default" htmlUrl="http://appirio.com"/>
             <outline type="rss" text="A salesforce blog" title="A salesforce blog" xmlUrl="http://www.forcedotcom.com/feeds/posts/default"/>
             <outline type="rss" text="Systems Integrator" title="Systems Integrator" xmlUrl="http://feeds.feedburner.com/developerforce/systemsintegrator" htmlUrl="http://blogs.developerforce.com/systems-integrator"/>
             <outline type="rss" text="kyleRoche &amp; family" title="kyleRoche &amp; family" xmlUrl="http://www.kyleroche.com/feeds/posts/default"/>
             <outline type="rss" text="Embracing the Cloud" title="Embracing the Cloud" xmlUrl="http://www.embracingthecloud.com/SyndicationService.asmx/GetRss" htmlUrl="http://www.embracingthecloud.com/"/>
-        </outline>        
+        </outline>
     </body>
 </opml>
