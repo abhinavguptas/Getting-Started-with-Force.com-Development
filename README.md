@@ -20,7 +20,7 @@ You might be facing some issues, or having some questions. Best way to sort out 
 Force.com platform comes with something cool 3 times a year, apart from that force.com dev community is pretty vibrant in terms of blogs and open source projects. Here are few ways to stay tuned to all these updates.
 
  * __Watch opensource action__ : Keep an eye on [CodeShare] (http://developer.force.com/codeshare) and [Github] (https://github.com/search?type=Repositories&language=&q=salesforce&repo=&langOverride=&x=19&y=21&start_value=1) 
- * __Follow important blogs__ : No need to say why this is important. My own Google reader subscription list is uploaded to this git hub repository. So please import [this] (https://github.com/abhinavguptas/Getting-Started-with-Force.com-Development/blob/master/google-reader-subscriptions.xml) xml in Google reader to get an big dose of happenings :)
+ * __Follow important blogs__ : No need to say why this is important. My own Google reader subscription list is uploaded to this git hub repository. So please import [this] (https://gist.github.com/abhinavguptas/8330797#file-blogs-to-follow-opml) xml in Google reader to get an big dose of happenings :)
  * __Twitter__ : Here are few Twitter lists that make it simple to quickly connect with force.com team, evangelists and MVPs.
   * [Force.com Developer relations team] (https://twitter.com/#!/forcedotcom/developer-relations/members)
   * [Force.com Developer evangelists] (https://twitter.com/#!/forcedotcom/developer-evangelists/members)
